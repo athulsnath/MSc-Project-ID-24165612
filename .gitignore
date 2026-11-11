@@ -1,0 +1,21 @@
+# Python & Jupyter Caches
+__pycache__/
+.ipynb_checkpoints/
+.cache/
+
+# Large Datasets & Parquet Files
+data/
+*.parquet
+*.nii
+*.nii.gz
+
+# Processed Image Slices & PyTorch Models
+Saved_2D_Slices/
+Saved_2D_Image_Slices/
+*.pt
+*.pth
+
+# Environment & OS Metadata
+.DS_Store
+Thumbs.db
+*.log
