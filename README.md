@@ -3,7 +3,7 @@
 **Student Name:** Athul Sheeja Nath
 **Student ID:** 24165612
 **Module:** MSc Final Project (7COM1075-0901-2026 / Data Science and Analytics Masters Project)
-**Project Title:** Deep Learning Baseline and Multimodal Fusion Pipeline for Predicting IDH Mutation Status in Glioma
+**Project Title:** Multimodal Deep Learning for Glioma IDH Mutation Classification Using MRI and Clinical Data
 
 ---
 
